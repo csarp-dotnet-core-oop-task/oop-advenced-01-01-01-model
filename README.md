@@ -10,3 +10,5 @@
 
   Hosszon létre tanár, szülő, adminisztrátor, igazgató, igazható helyettes, technikai dolgozó, portás és takaríró osztályokat.
   Legyenek konstruktorai!A tárolt tulajdonságaikban legyen minél kreatívabb! Legyen megírva a ToString metódus!
+
+  Példányosítson minél több objektumot a Program.cs-ben
