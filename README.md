@@ -1,5 +1,6 @@
 # Model
  - A Student osztályban készítsen konstruktort, (legyen üres konstuktor, legyen összes adatot kezelő konsturkor és Lehessen létrehozni diákot telefon szám nélkül
+
  Property-k  
 - Legyen a diák angol és magyar teljes neve
 - Email és telefon szám esetén get és set
