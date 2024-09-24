@@ -1,5 +1,5 @@
 # Model
- - A Student osztályban készítsen konstruktort, (legyen üres konstuktor, legyen összes adatot kezelő konsturkor és Lehessen létrehozni diákot telefon szám nélkül
+ - A Student osztályban készítsen konstruktort, (legyen üres konstuktor, legyen összes adatot kezelő konsturkor és lehessen létrehozni diákot telefon szám nélkül
 
  Property-k  
 - Legyen a diák angol és magyar teljes neve
